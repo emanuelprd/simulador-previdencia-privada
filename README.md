@@ -14,10 +14,10 @@ Regressivo: Tributação que começa em 35% até a mínima de 10% após 10 anos.
 
 Informações Solicitados ao Usuário: 
 
-Renda Mensal Tributável.
-Aplicação Mensal.
-Retorno Anual Esperado.
-Horizonte de Investimento.
-Idade.
-Modelo de Declaração Utilizado.
-Contribuinte do INSS.
+- Renda Mensal Tributável
+- Aplicação Mensal
+- Retorno Anual Esperado
+- Horizonte de Investimento
+- Idade
+- Modelo de Declaração Utilizado
+- Contribuinte do INSS
