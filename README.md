@@ -21,3 +21,11 @@ Informações Solicitados ao Usuário:
 - Idade
 - Modelo de Declaração Utilizado
 - Contribuinte do INSS
+
+Resultados: 
+
+- Modelo indicado
+- Regime Tributário indicado
+- Aporte sugerido em PGBL e/ou VGBL 
+- Economia fiscal
+- Saldo Projetado no final do período
