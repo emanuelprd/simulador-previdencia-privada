@@ -1,6 +1,6 @@
 # Simulador de Previdência Privada
 
-Este simulador tem como objetivo indicar com base nas informações inseridas pelo usuário qual é a melhor modalidade e regime tributário indicado para o seu perfil, a escolha destes parâmetros trazem impactos financeiros significativos aos aderentes de planos de previdência e muitas vezes se torna um trabalho complexo devido a inúmeras variáveis envolvidas. 
+Este simulador tem como objetivo indicar com base nas informações inseridas pelo usuário qual é a melhor modalidade e regime tributário indicado para o seu perfil, a escolha do plano certo traz impactos financeiros significativos aos aderentes de planos de previdência privada e muitas vezes se torna um trabalho complexo devido a inúmeras variáveis envolvidas que precisam ser levadas em consideração. 
 
 Modalidades:
 
