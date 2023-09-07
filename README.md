@@ -4,13 +4,13 @@ Este simulador tem como objetivo indicar com base nas informações inseridas pe
 
 Modalidades:
 
-PGBL (Vida Gerador de Benefício Livre) = Há diferimento fiscal permitindo a dedução de até 12% da renda anual tributável, válido para quem utiliza o Modelo Completo de IRPF e contribui para o INSS. Tributação no ato do resgate incide sobre o montante.   
-VGBL (Plano Gerador de Benefício Livre) = Não há diferimento fiscal e tributação no ato do resgate incide sobre o rendimento. 
+- PGBL (Vida Gerador de Benefício Livre) = Há diferimento fiscal permitindo a dedução de até 12% da renda anual tributável, válido para quem utiliza o Modelo Completo de IRPF e contribui para o INSS. Tributação no ato do resgate incide sobre o montante.   
+- VGBL (Plano Gerador de Benefício Livre) = Não há diferimento fiscal e tributação no ato do resgate incide sobre o rendimento. 
 
 Regimes Tributários: 
 
-Progressivo: Tributação na fonte de 15% e ajuste na declaração conforme tabela progressiva de IRPF.
-Regressivo: Tributação que começa em 35% até a mínima de 10% após 10 anos.  
+- Progressivo: Tributação na fonte de 15% e ajuste na declaração conforme tabela progressiva de IRPF.
+- Regressivo: Tributação que começa em 35% até a mínima de 10% após 10 anos.  
 
 Informações Solicitados ao Usuário: 
 
