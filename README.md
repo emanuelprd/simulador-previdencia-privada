@@ -30,4 +30,4 @@ Resultados:
 - Regime Tributário indicado
 - Aporte sugerido em PGBL e/ou VGBL 
 - Economia fiscal
-- Saldo Projetado no final do período
+- Saldo projetado no final do período
