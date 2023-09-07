@@ -10,7 +10,14 @@ VGBL (Plano Gerador de Benefício Livre) = Não há diferimento fiscal e tributa
 Regimes Tributários: 
 
 Progressivo: Tributação na fonte de 15% e ajuste na declaração conforme tabela progressiva de IRPF.
-
-![alt text]((https://github.com/emanuelprd/Simulador-de-Previdencia-Privada/blob/fe5b7470d3c1d288a2e54c902f9a2b12bc538a01/Tabela%20de%20IRPF%202023.png)
-
 Regressivo: Tributação que começa em 35% até a mínima de 10% após 10 anos.  
+
+Informações Solicitados ao Usuário: 
+
+Renda Mensal Tributável
+Aplicação Mensal
+Retorno Anual Esperado
+Horizonte de Investimento
+Idade
+Modelo de Declaração Utilizado
+Contribuinte do INSS
